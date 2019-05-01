@@ -105,9 +105,18 @@
    border-radius: 5px;
    cursor: pointer;
    transition: 0.3s;
+   padding: 10px 0px;
+
+   transition: transform 10s; /* Animation */
+
  }
  
- #myImg:hover {opacity: 0.7;}
+ #myImg:hover {
+   opacity: 0.7;
+   transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  background-color: aliceblue
+  }
+
  
  /* The Modal (background) */
  .modal {
@@ -198,10 +207,37 @@
  }
  @media only screen and (max-width: 600px) {
   body > div.container > div > div{
-    width: 200%;
+    width: 100%;
   } 
   body > div:nth-child(3) > ul {
     float: none;
+  }
+  .keys {
+    border: 2px solid #e485a5;
+    border-radius: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    /* max-width: 25%; */
+    display: inline-block;
+    height: 25%;
+    padding: 0px 10px;
+}
+p.keys {
+  border: 2px solid #e485a5;
+  border-radius: 0;
+  text-align: center;
+  /* margin-bottom: 20px; */
+  width: 25%;
+  float: right;
+  max-height: 3%;
+}
+body > div.container > div > div > div > img {border: 2px solid aquamarine;
+  margin-left: 50%;
+  position: relative;
+  margin-left: 20%;
+  background-color: white;
+  box-shadow: 12px 9px #dd96ae;
+  width: 40%;
   }
 }
 
@@ -211,6 +247,7 @@ position: relative;
 margin-left: 20%;
 background-color: white;
 box-shadow: 12px 9px #dd96ae
+
 }
 
 .telephone{
