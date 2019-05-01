@@ -218,3 +218,7 @@ background-size: cover ;
 background: center no-repeat ;
 
 }
+
+body > div.container > img{
+  float:left;
+}
