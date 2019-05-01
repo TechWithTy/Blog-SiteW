@@ -11,21 +11,33 @@
      list-style-type: none;
  }
 
- body > div:nth-child(3) > ul > li {
+ .keys{
      border: 2px solid #e485a5;
     border-radius: 20px;
     text-align: center;
-    margin-bottom: 20px
+    margin-bottom: 20px;
 
  }
- body > div:nth-child(3) > ul > li:hover {
+ .keys:hover {
     border: 2px solid aqua;
     background-color: #e485a5;
-    border-radius: 20px;
     text-align: center;
+    
+ -webkit-animation: flip 3s linear 0s infinite normal ;
+ animation: flip 3s linear 0s infinite normal ;
 
 
  }
+
+ p.keys{
+  border: 2px solid #e485a5;
+ border-radius: 0;
+ text-align: center;
+ margin-bottom: 20px;
+ width: 25%;
+ float: right;
+
+}
 
  body > div:nth-child(3) > ul > li:nth-child(3),body > div:nth-child(3) > ul > li:nth-child(4) {border: 2px solid #e485a5;
    padding-left: 5px;
@@ -39,3 +51,170 @@
     background-color: #e485a5;
     
   }
+
+
+  @-webkit-keyframes flip {
+   0%{
+    -webkit-transform: translateY(0);
+    transform: rotateY(0deg);
+   }
+   50%{
+    -webkit-transform: translateY(180);
+    transform: rotateY(180deg);
+   }
+   100%{
+    -webkit-transform: translateY(0);
+    transform: rotateY(0deg);
+   }
+ }
+ 
+ @keyframes flip {
+   0%{
+    transform: rotateY(0deg);
+   }
+   50%{
+    transform: rotateY(180deg);
+   }
+   100%{
+    transform: rotateY(0deg);
+   }
+ }
+
+
+ @media (min-width: 992px) {
+ .col-lg-3 {
+     -ms-flex: 0 0 25%;
+     flex: 0 0 25%;
+     max-width: 20%;
+ }
+
+ body > article > div > div > div > div > div > div{
+   max-width: 15%
+ }
+ }
+
+
+
+
+
+
+
+
+
+ #myImg {
+   border-radius: 5px;
+   cursor: pointer;
+   transition: 0.3s;
+ }
+ 
+ #myImg:hover {opacity: 0.7;}
+ 
+ /* The Modal (background) */
+ .modal {
+   display: none; /* Hidden by default */
+   position: fixed; /* Stay in place */
+   z-index: 1; /* Sit on top */
+   padding-top: 100px; /* Location of the box */
+   left: 0;
+   top: 0;
+   width: 100%; /* Full width */
+   height: 100%; /* Full height */
+   overflow: auto; /* Enable scroll if needed */
+   background-color: rgb(0,0,0); /* Fallback color */
+   background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+   margin-top: 50px;
+ }
+ 
+ /* Modal Content (image) */
+ .modal-content {
+   margin: auto;
+   display: block;
+   width: 80%;
+   max-width: 700px;
+ }
+ 
+ /* Caption of Modal Image */
+ #caption {
+   margin: auto;
+   display: block;
+   width: 80%;
+   max-width: 700px;
+   text-align: center;
+   color: #ccc;
+   padding: 10px 0;
+   height: 150px;
+ }
+ 
+ /* Add Animation */
+ .modal-content, #caption {  
+   -webkit-animation-name: zoom;
+   -webkit-animation-duration: 0.6s;
+   animation-name: zoom;
+   animation-duration: 0.6s;
+ }
+ 
+ @-webkit-keyframes zoom {
+   from {-webkit-transform:scale(0)} 
+   to {-webkit-transform:scale(1)}
+ }
+ 
+ @keyframes zoom {
+   from {transform:scale(0)} 
+   to {transform:scale(1)}
+ }
+ 
+ /* The Close Button */
+ .close {
+   position: absolute;
+   top: 15px;
+   right: 35px;
+   color: #f1f1f1;
+   font-size: 40px;
+   font-weight: bold;
+   transition: 0.3s;
+ }
+ 
+ .close:hover,
+ .close:focus {
+   color: #bbb;
+   text-decoration: none;
+   cursor: pointer;
+ }
+ 
+ /* 100% Image Width on Smaller Screens */
+ @media only screen and (max-width: 700px){
+   .modal-content {
+     width: 100%;
+   }
+ }
+/* Home Page Cards */
+ body > div.container > div > div > div{
+  border: 2px solid #e485a5;
+ }
+
+/* Older posts Button */
+ body > div.container > div > div > div.clearfix{
+   border:none;
+ }
+ @media only screen and (max-width: 600px) {
+  body > div.container > div > div{
+    width: 200%;
+  } 
+  body > div:nth-child(3) > ul {
+    float: none;
+  }
+}
+
+body > div.container > div > div > div > img {border: 2px solid aquamarine;
+margin-left: 50%;
+position: relative;
+margin-left: 20%;
+background-color: white;
+box-shadow: 12px 9px #dd96ae
+}
+
+.telephone{
+background-size: cover ;
+background: center no-repeat ;
+
+}
