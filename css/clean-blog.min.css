@@ -212,6 +212,8 @@
     width: 50%;
     height: 50%;
   } 
+
+ 
   
   body > div:nth-child(3) > ul {
     float: none;
@@ -510,3 +512,15 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff757c', end
 	transform: translateX(0);
   }
 }
+
+freebirdFormviewerViewFooterFooterBarLeft  {
+  display: none;
+}
+
+ 
+
+  .fullcontact{
+    display: none;
+  }
+
+  
