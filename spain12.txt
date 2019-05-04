@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title> - PowerPumpsandMoves  </title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link src="_bootstrap-override.css"> </link>
+
+  <!-- Custom fonts for this template -->
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+  <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+  <!-- Custom styles for this template -->
+  <link href="css/clean-blog.min.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">PowerMovesandPumps</a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        Menu
+        <i class="fas fa-bars"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="index.html">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="about.html">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="post.html">Shop</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="contact.html">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Page Header -->
+  <header class="masthead" style="background-image: url('https://lh3.googleusercontent.com/40_c5jKcemHUIbZtshNCis1Qswmonl1b5JprfD6G_Px0E8uf7oYYm1eO1N3dCgSqWwKIbZ_bENUpDhq2DPvq3J67jiJtMAMe-Z1gsOTrYyba2hLsyOlSelK_YdREqiM5HIc8ZVIAt3677hjy8re9_IzJUWai65m5i3AvkgSSN5AAI3f4haTsNfKZn7o39xHnxuHKcIr3lKmCJYrr39B4tKFoOxAe-FHdvGVwyBevU8E3AyB9QIBOTKTHJWMv_S5iHfFzox3gZCBtN7bb1jRwkTWIiMVRQhZVE4rwWHNqlD8EJcNzBgkky68r85EZj7L3o4RV46uJ-dewcbeOwtk83RE-wH6fBvK9dqkQUhPhp_smRqzjSKhrjStizavZihPZEA23HFaaS6DV8cSI0AJKX5tP17l0jFChQWCRJcRSROc65676eOOo0I2H0wtyZ9vP3Q04nCOV1Zx87Huc-ciCoM-_eOPdLpwfI7uEZSPlQGFb9G-YJpVeqn0eRGSxnfz_-5jizvIjus8o-KIIYhxnLiFR6xQlqsMDZdQa0FtVjR-OOpjn6piG7WJqeYTVNcD_V8zwRflSyxgSv9nD1gX4EQG7eJYPQxb5NRBtx1-kLpZnMITOMM-0RUay1uJnlUoWRjnIGYQKcOBOSUi_qf2SvBnb5arUHDU=w1584-h532-no')">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="site-heading">
+            <h1>PowerMoves</h1>
+           <i> <span class="subheading">And Pumps</span></i>
+          </div>
+        </div>
+      </div>
+    </div>
+    <img src="img/icons/cloud.png"href="#" id="scroll" stye="display: none;"></img>
+
+  </header>
+
+  
+<body>
+  <img src="img/icons/cloud.png"href="#" id="scroll" stye="display: none;"></img>
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">PowerPumpsandMoves</a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        Menu
+        <i class="fas fa-bars"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="index.html">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="about.html">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="post.html">Sample Post</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="contact.html">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Page Header -->
+  <header class="masthead" style="background-image: url('https://lh3.googleusercontent.com/gMGuEQhN1w0LmyC0bu1t6W2zGvAClk6BRhrzcFvk_8GDHynbjeG16l7aPnSjLyqwu05qXhFQuFJwgoC9P42HkBruRIZg1ZZh9HttHG9wdCzofS1rKGHAXIUZgeFbLLkTMWviCDVhg45sds6JmSG77jzDgP-gjD-PWWY8riHU4JCBkpkPmEKx4xBp1Lj8fK4zqragHCJtUNHLYoPY9Y_eC6VWmKGM6UFhrjiZnJWi5ui7U-uMBO4uwx_vG6mo3w17giXzosBYdWq19G02pnzVPuE32JenGND_EEqxBEOWBuASQJOb3KkdgvtexkCAabq4sfLATpF2ax0H9GiwB5HebqL-zoM0peZ-jCPNMGXBveRpMoTcGhOsHpnSGz1xWWR7DwYWU7fNY6INxa8ARh7jv2P_-glnCx51tQw1rwsweis27j4dAOM76gBaRI9-RH64f1ZkcYES-q_SJvEXsTaJbT0PLxxVeZhbGxOesL3rsfDLiiTDuMpr8TVsfHi-5URmbdtNdiejatSxm5ZplpScJiXMhCmZlItY32mHQWN_cpdCw1vLccGnRLETdVSvPFhWokci3IFz7Ph2xNGl5n4LjgQCTmr6KbncG5R5Gl8HHFdHCP_vSon4_x7SX5Z8P1D2MwVfeeyYBAjo8hryrwh41Iqz4R6oiro=w768-h512-no')">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="post-heading">
+            <h1>Spain Part 1: Getting There </h1>
+            <h2 class="subheading">J. Daniel • September 5, 2017</h2>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+  <div class="container">
+
+      
+      
+        <div class="row text-center text-lg-left">
+      
+          <div class="col-lg-3 col-md-4 col-6">
+            <a  class="d-block mb-4 h-100">
+                  <img id="myImg"  class="img-fluid img-thumbnail" src="https://lh3.googleusercontent.com/mfdkYNzeO-_NXdIU4oa497eOeS2hFBiGpJ8lpzne5iV3ahxarCCAk4n8p2uzBiv8h5Qs-KIuWTipJ7LJgEyhQT_rdLWr4bXqUcDAMv8oJbcsonmNsedwFdV_6N-HgbejtLGvhUjM9Tzphn2neW3WD5y4m1Zi1duf1anG3Z4xqKj1X-0QlOsJz9wUbrybkcj5lL789kDtijVD_28LQaP9j2ZtekvVy7MFl155xWU8CG3cM-t-eINT3NIHbtHLXoITxwuwmI5cLvu_vXxPt9HO1cBOpjodrdctnxnXJDdPbZlSmUQTSTAuByfWw6lhdPnZble92PrnEAg6o6WG8IAmhO3spp8wJYKsTv1WuA-v8dkpl_JHnu4sYdWs6aEwwvf9rA49vCWvBIKkQgZwAD_o_zMf1Hvw9By8oaOCewz-BpwA-7ymVCgw8sHMOtVNg7Hk73BHmizF__lVNjOqRje1wevOrtX9x46sBD_ZEUsR_9dB2FQywI7Onr6fRKmO819SqqiCLMsUpgKXS5wWm26n1A1Dw2SaGO4PAJ-8pAOvbT3g68NFC2uTiZNLyw6i6juAvLD_BNwY0OVGrGqe1i6g6KIuzLoOihnY1LvHzj_X2C6koJVODaFiV10I-WjIt8TM9TsddwJrjld2uWFwseG74kEHhuhWan8=w300-h534-no" 
+                  alt="Text messages from coworker">
+                </a>
+          </div>
+          <div class="col-lg-3 col-md-4 col-6">
+            <a  class="d-block mb-4 h-100">
+                  <img class="img-fluid img-thumbnail " id="myImg" src="https://lh3.googleusercontent.com/EZ-GrQh8Xum4NQv_jwatDHiME2rg0VL1qrni7alDCBVMFep6pNXFjB1wlDdTJhgO_-U0OExLrhpK7UQ_1kf205IQMrM0JtvY2PMeIK6r4dFedZA4YXM85th99QJZc6JHR4WiUNuM5Ougz7h79Rz34_ht7hBNKS8P_o88UqvNw8CDX8goanMIbeIFNo94arJe3tJ5-EstNaKZK9WMnxRNbqPOXCY1szWqkR27yctHnNDP95koy4TxL5PB9yQ7dxzQHxmUSs1uwGKwq4hwndXgozvujrMqLiif15qr-uT5RxHQWhYjSuXdol6327CX2Sd_-0ZFVAglKeZ4lcxJl8xRtlfAPayHHvMmFGL3Tz8wWR5c45lwfu7lIC1-gVxk01r_dvZdG2hEPx6Cg5K7lt8xVTkkWUKwYMIqrTmwrmnyEJzBMhUaL9G0fLLpOyfIMwivlRMARH-l8DOHibCt8uBotwqQRlO1-JeNXm7AWwtSekxZagZGxX4oXG4BPPfN3yZBBmIjFcsGT41_vq46dErr-iaojq8fHTB6iaYt_hLMxdzVi_ZF73vrRBQOG1lM8caqigJDb8HEoyhjP8MFVqgeStghb6N8yPbfJ1FlI4afBhrrfR5dxpUCtNmTZfRIk_yK-n8WSDXzTK-uY-cF-ni2RXqlbEX3-ac=w768-h576-no" 
+                  alt="Curry in flight meal">
+                </a>
+          </div>
+          <div id="myModal" class="modal">
+                <span class="close">&times;</span>
+                <img class="modal-content" id="img01">
+                <div id="caption"></div>
+              </div>
+          <div class="col-lg-3 col-md-4 col-6">
+            <a  class="d-block mb-4 h-100">
+                  <img id="myImg" class="img-fluid img-thumbnail" src="https://lh3.googleusercontent.com/Irb6z6hyYz6N0Tevbth4UJVRVYkAc6McEfy8qHTC-RcRQAT3LNFw0iixe6aFOs4nPKjWe2s6Ng=w328-h437-no"
+                   alt="The ceiling of the Madrid airport.">
+                </a>
+          </div>
+          
+          
+          
+        </div>
+      
+      </div>
+  <!-- Post Content -->
+  <article>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+                
+                      <h2  class="section-heading">1</h2>
+          <p>So Spain right?  I have so much to say about Spain. But oddly enough half of the adventure might have been in just trying to get there. So me and my travel buddy, my BFF, whom I call E, decided on Spain this year for our annual girls trip. Though we have a good amount of experience traveling, this would be our first trip overseas. I was a little leery of traveling to France or England because of recent terror attacks but figured Spain hadn't had an incident in ages so we should be good.</p>
+                      
+          <p>Normally, I'm a stickler for planning my vacations. I want to get everything done ahead of time. I want to plan out all my activities, places to eat and see and put together a well-thought out itinerary well in advance of my departure. For this trip? Oh man. That cannot be further than what actually happened. I knew I was bordering on hot mess potential weeks before we left.  My schedule at work had been crazy and in the weeks leading up to my vacation it was absolute madness. I just didn't have the time to plan. Fortunately, our flights were booked but we were still trying to figure out hotel accommodations up to three days before our trip.</p>
+          
+          <p>On the schedule of cities to visit were Madrid, Barcelona and Seville. The plan was to get from city to city via train. Luckily there's a discount for foreigners but unluckily for me you have to book with enough time in advance so they can mail you your passes. Mail? Who mails anything anymore? I thought we had all collectively moved on to E tickets. No? Whatever. So now I'm just praying that we can get the tickets we need at the train station for the times that we need and manage to stay on schedule. In the back of my mind if worst come to worst, I can rent a car (Fun fact: this is actually not the case, you have to apply for permission ahead of time to drive in Europe as a foreigner).</p>
+          
+          <p>So here we are the night before our flight to Spain. I had flown into New York to meet E so we could fly out together. As a precautionary measure we were taking photos of our credit cards and passports but as we both looked at E's passport we noticed something. Hers had expired in June. Holy Sh&!+. " I asked you!" I exclaimed. Referring to the day we were booking our tickets when I asked her to check her passport to be sure it was still valid. At the time she told me it expired in September (funny enough, come to find out an expiration date that close to date of travel would have gotten her booted from the flight anyway. FYI: to be safe, when traveling internationally you want to make sure your passport will have at least 3 months of validity left at your time of travel).</p>
+         
+          <p>So after my heart sank and the wave of anxiety hit me from the discovery, I tired to look up what we could do. I knew you could expedite your passport but I never heard of it being done in a few hours. Looking online, official sites say you need an appointment but I tried the site and it wouldn't let me book an appointment for the next day. I then came across a blog entry for a woman with a similar issue who stated she was able to get a passport for her husband by 4 o'clock the same day. (Our flight was at 3pm but this gave us a glimmer of hope). I looked up the main New York passport agency and told E she would have to go there at crack of dawn with everything they would need ready (forms filled out, 2 new passport photos, expired passport, additional identification, and payment.) “Lie and tell them you have an appointment. Tell a sob story. Cry if you have to. Do whatever it takes to get that passport by 1 o'clock the latest.” I told her.</p>
+          
+          <p>Neither of us slept well all night. I even had a dream about someone having the heart to help her out at the passport agency. Off she went at around 5:30 the morning with multiple stops (get the photos, print the forms). By the time she reached the passport agency there were a ton of people already in line. Sh!+ We kept in contact but I was beyond concerned. I was already scoping out plan B. "Ok I can fly out and she can just meet me there. But if my mom knows I traveled to Europe alone she's gonna be a nervous wreck the entire time and she's old and fragile so I can't do that. I'm gonna have to lie and pretend she's with me (I know I'm a grown ass woman and this is crazy but it is what it is)." I start looking at ticket prices and they are around $3,000 and up. My stomach turns again. I call the airline to try and get an idea of what my options are and it doesn't look good. If she doesn't make the flight, the difference she's going to have to pay would be about $2,500 unless she waited and left in three days then it would go down to $600. I hang up, pray and hope for the best. As she made progress she would text me. I ran to the laundry mat to pick up the clothes she had dropped off. I get back to the apartment and surprise, I can't open the damn door. I hear and feel it clicking but it's not opening. Luckily her neighbor was around to help me out. I got in and threw everything that wasn't a bed sheet into her suitcase.</p>
+          
+          <p>Then I got the call "I got it!" Glory hallelujah. Thank the Lord for giving this girl the gift of the gab. E didn't bother to come back to the apartment figuring it would be a safer bet if we just met at the airport. She called her favorite cabbie for me good old number "Forty Four". 44 arrived and the neighbor helped me to the cab. As we approached the airport… dun dun dun... the cab started to smoke. I mean, within about a minute the car was surrounded with smoke and it was starting to come inside. "Father God what message are you trying to send me about this trip?" 44 tried his best to get me to the terminal. " Oh no big problem” he says in a gentle Haitian accent. "It's the transmission". We barely make it off the exit and the car dies on the road outside. I get out, grab my bags and try to flag down a cab, only none of them will stop because, well obviously you aren't supposed to pick passengers up off the side of the freeway. One cabbie stops but looks really apprehensive. Sympathetically looks at the smoking cab behind me and tells me "We're not allowed to pick up passengers here. It's illegal". I tell him “Listen, the terminal is right there. I'm just trying to get to the terminal. I'll pay you in cash.” He reluctantly agrees. 44 helps me load my bags into the new cab and new cabbie gets me to the terminal in about 5 minutes. I give him $20 for this egregious criminal act and let him know “You sir are appreciated.”</p>
+          
+          <p>I meet E curbside. She's cool calm and collected, almost glowing even and already checked in. Meanwhile I'm a hot mess. How? Anyway. I get checked in and we make our way to the gate. Apparently, we can’t just walk to our gate or take some sort of tram. We have to go out of a special exit (literally exit the airport) and go down to a bus that’s waiting on the tarmac. We then realize there’s a delay and we can’t move yet because there’s a military plane and bus directly behind us loading passengers. We’re waiting on the bus for about 15 – 20 minutes when I get a text from my coworker. She had just seen the news about what happened in Spain and wanted to know if I was okay. “Okay??? What do you mean okay?” I thought. I hadn’t heard any news. I quickly checked the news and saw that there was an attack in Barcelona. The bus to our gate finally starts moving and I start getting texts from everyone who knows I was on my way to Spain. I can’t tell my mother this. She’s going to freak. I’ll tell her when we connect in Boston so she can’t tell me not to go. (Once again, I know I’m a grown ass woman and this is ridiculous. Don’t judge). In the mean time a get a nervous call from my young nephew who has just been stopped by the cops while driving my mothers car and can’t seem to find the registration or car insurance info. So I have to help troubleshoot that mess.</p>
+          
+          <p>We finally make it onto our flight. When we arrive in Boston we are made to completely exit the airport, ride a tram to another gate and go through the entire boarding process again minus our checked bags. We have to go to the ticketing desks to get boarding passes because the first flight could not provide them to us. No one bothers to tell you that the ticket desk will be closing in a few minutes so you better hustle. Luckily we asked someone for directions and they told us to hurry the hell up. We run to the ticketing desk and the agent decides that she wants to move as slow as molasses today. Even the toddler of the couple she was attending to ahead of us had enough of her at one point and told her to hurry up. “Hurry up the plane is going to leave us”. Amen sister, Amen. We get our passes and run to security check in. We get to the gate with a few minutes to spare. We make our final phone calls and texts in the states and off to Madrid we go.</p>
+          
+          <p>We flew Iberia airlines. I’ve seen mixed reviews but our experience was great. The plane was huge, modern and neat. The flight attendants were friendly and helpful and something about their disposition just made them seem a little more elegant than I was used to. As they moved through the isle in synchronization to demonstrate the safety procedures, it looked like a well-choreographed dance. They reminded me of flight attendants of yesteryear (Think Pan Am type of classy). The food service was also great and even their little pillow and blanket set was of a pretty good quality.</p>
+          
+          <p>The flight was long but good and we arrived safely in Madrid at around 9:30 am. Madrid airport is like nothing I’ve ever seen before. First of all, its ginormous. Secondly, the architectural elements of the ceiling of the entire structure are amazing. It was a little bit of a maze to get through but we got through customs and made our way outside to find an orderly line of cabs waiting.</p>
+            
+          <p>Now for the actual vacation portion of the story. We’re in Spain. What next? Check back in soon for part two of the adventure.</p>
+            
+            </div>
+          
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <hr>
+
+  <!-- Footer -->
+  <footer id="sticky-footer" class="py-4 bg-dark text-white-50">
+        <div class="container text-center">
+          <small>Copyright &copy; PowerPumpsandMoves</small>
+          <a href="google.com">  <small class="poweredby">Powered by </small> <img src="images/codingoni.png"></a>
+        </div>
+      </footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="js/clean-blog.min.js"></script>
+  <script src="js/interactivity.js"></script>
+
+</body>
+
+  <hr>
+
+  <!-- Footer -->
+  <footer id="sticky-footer" class="py-4 bg-dark text-white-50">
+      <div class="container text-center">
+        <small>Copyright &copy; PowerPumpsandMoves</small>
+        <a href="google.com">  <small class="poweredby">Powered by </small> <img src="images/codingoni.png"></a>
+      </div>
+    </footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+ 
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="js/clean-blog.min.js"></script>
+  <script src="js/interactivity.js"></script>
+
+  
+
+
+</html>
