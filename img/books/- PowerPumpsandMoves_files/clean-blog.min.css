@@ -835,13 +835,14 @@ body>div.container>div>div>div>a>img {
   display: flex;
   flex-flow: row wrap;
   align-items: center;
-  color: black
+  background: -moz-linear-gradient(-45deg, #ff757c 1%, #ff757c 22%, #ff757c 45%, #2989d84d 50%, #207cca 51%, #7db9e8 100%);
+  background: -webkit-linear-gradient(-45deg, #ff757c 1%, #ff757c 22%, #ff757c 45%, #2989d8 50%, #207cca 51%, #7db9e8 100%);
+  background: linear-gradient(135deg, #ff757c 1%, #ff757c 22%, #ff757c 45%, #2989d8 50%, #207cca 51%, #7db9e8 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff757c', endColorstr='#7db9e8', GradientType=1);
 }
 
 .form-inline label {
   margin: 5px 1px 5px 50px;
-  color: black
 }
 
 .form-inline input {
